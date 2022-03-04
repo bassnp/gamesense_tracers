@@ -3,6 +3,7 @@ local mp = {"LUA", "B"}
 
 --[[
     Cool bullet tracers, kinda looks like starwars
+    https://streamable.com/gkl76m
 
     Credits: Bassn / bass / hitome56 / uid2515 / not.bass#3945 / big boy paster
 
